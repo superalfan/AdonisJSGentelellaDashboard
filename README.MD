@@ -2,6 +2,8 @@
 
 AdonisJS 6 + Gentelella Alela Dashboard
 
+![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Gentelella Theme Browser Preview")
+
 
 Saya gabungkan Framework AdonisJS V6 dengan Gentelella Alela Dashboard Versi Free
 
