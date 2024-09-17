@@ -3,7 +3,7 @@
 AdonisJS 6 + Gentelella Alela Dashboard
 
 
-## Bootstrap Version
+## AdonisJS 6 + Gentelella Alela Bootstrap Version
 ![Gentelella Bootstrap Admin Template](https://colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg 
 "Gentelella Theme Browser Preview")
 
